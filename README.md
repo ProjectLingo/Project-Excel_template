@@ -11,8 +11,10 @@ Description
 This repository publishes the “ProjectLingo's Project Excel Template” that is a Project  template based on the multi-view architecture and inspired on PM standards and frameworks such as ISO 21500, PMI PMBoK, IAPPM, IPMA.
 
 This template includes the following files:
-. ProjectLingo-Project-Excel-Template-vX.Y.xlsx: the "PSLingo Project Excel template" that can be customized or directly used in a project basis (please use its most recent version)
-. ProjectLingo-DemoProject-vX.Y.xlsx: an Excel file with a simple (and not complete) application example of this "Project Excel template"; Use its last version as a starting point for your learning and use purpose.
+
+- ProjectLingo-Project-Excel-Template-vX.Y.xlsx: the "PSLingo Project Excel template" that can be customized or directly used in a project basis (please use its most recent version)
+
+- ProjectLingo-DemoProject-vX.Y.xlsx: an Excel file with a simple (and not complete) application example of this "Project Excel template"; Use its last version as a starting point for your learning and use purpose.
 
 Feedback
 --------------------------------------------------------------------------------------
