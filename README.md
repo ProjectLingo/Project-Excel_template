@@ -1,4 +1,4 @@
-## ProjectLingo - Project MS-Excel Template (ProjectLingo-Project-Excel-Template) ## 
+## ProjectLingo - Project MS-Excel Template (ProjectLingo-Project-Excel-Template)
 
 Copyright
 --------------------------------------------------------------------------------------
