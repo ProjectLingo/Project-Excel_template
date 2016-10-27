@@ -1,14 +1,13 @@
-## ProjectLingo - Project MS-Excel Template (ProjectLingo-Project-Excel-Template)
+## ProjectLingo - Project MS-Excel Template (ProjectLingo-Project-Excel-Template) ## 
 
 Copyright
 --------------------------------------------------------------------------------------
-Copyright 2016 INESC-ID, Instituto Superior Técnico, Universidade de Lisboa. All rights reserved. 
-This material is available for academic, research and business purposes, however, You should keep the authors and copyright notice.
-Any use of this software constitutes full acceptance of all terms of the software's license.
+Copyright  2016, Alberto Rodrigues da Silva (Coordinator) et al., INESC-ID, Instituto Superior Técnico, Universidade de Lisboa. All rights reserved. 
+This material is available for academic, research and business purposes, however, You should keep the authors and copyright notice. Any use of this software constitutes full acceptance of all terms of the software's license.
 
 Description
 --------------------------------------------------------------------------------------
-This repository publishes the “ProjectLingo's Project Excel Template” that is a Project  template based on the multi-view architecture and inspired on PM standards and frameworks such as ISO 21500, PMI PMBoK, IAPPM, IPMA.
+This repository publishes the “ProjectLingo's Project Excel Template” that is a Project  template based on the multi-view architecture and inspired on Project Management standards and frameworks such as ISO 21500, PMI PMBoK, IPMA ICB.
 
 This template includes the following files:
 
@@ -18,13 +17,13 @@ This template includes the following files:
 
 Feedback
 --------------------------------------------------------------------------------------
-Feel free to use it! We would appreciate your feedback, 
+Your Feedback is Highly Appreciated!
 alberto.silva@tecnico.ulisboa.pt
 
 Licence
 --------------------------------------------------------------------------------------
-RSLingo-RSL-Excel-Template is released under the EUPL 1.1 licence. http://joinup.ec.europa.eu/software/page/eupl 
-For further details please consult the LICENCE file. 
+This material is released under the Eclipse Public License (EPL) - Version 1.0.
+http://www.eclipse.org/legal/epl-v10.html 
 
 
 Further information
